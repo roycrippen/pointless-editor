@@ -27,7 +27,6 @@
   "scripts": {
     "pack": "node_modules/webpack/bin/webpack.js",
     "compile": "tsc  -p ./",
-    "lint": "tslint -p ./",
     "watch": "tsc -w -p ./"
   },
   "devDependencies": {
